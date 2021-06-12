@@ -1,0 +1,35 @@
+.container{
+
+}
+
+.inputWidth{
+    width:50px;
+}
+
+.columns{
+    margin-left: 59px;
+    margin-right: 8px;
+}
+
+.sudoko{
+    width: 505px;
+    padding: 10px;
+    background: beige;
+    box-shadow: 0px 0px 10px 6px;
+    margin-top: 20px;
+}
+
+.check{
+    background-color: antiquewhite;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 2px;
+}
+
+.butn{
+    width:53px;display:flex;margin-left: 150px
+}
+
+.message{
+    margin-left: 200px;
+}
