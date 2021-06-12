@@ -1,4 +1,4 @@
 # SudokoApp
 
-Angular cli
-Suduko app with server
+Angular
+Suduko app
